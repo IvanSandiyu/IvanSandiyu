@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.xtrafondos.com%2Fwallpaper%2F8000x4521%2F10837-programacion-computadora-y-lentes.html&psig=AOvVaw3l4XpdS0JchfIolvXfDTcB&ust=1719523350136000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPivrOqZ-oYDFQAAAAAdAAAAABAK"  />
-</div>
 
 ###
 
