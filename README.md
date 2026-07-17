@@ -25,7 +25,7 @@
 ### Sobre mí
 
 - 🇦🇷 Argentina
-- 💼 Backend Developer en **COYA Software**
+- 💼 Backend Developer ( y un poco de front )
 - 🎓 Técnico Universitario en Programación
 - 💙 Apasionado por el desarrollo backend, arquitectura de software y APIs REST.
 - 🌱 Siempre aprendiendo nuevas tecnologías y buenas prácticas.
