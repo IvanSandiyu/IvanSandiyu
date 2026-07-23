@@ -51,10 +51,10 @@
 
 ### Actualmente
 
-- 🔹 Desarrollando aplicaciones con **ASP.NET Core** y **Entity Framework Core**
-- 🔹 Aplicando **Clean Architecture** y principios **SOLID**
-- 🔹 Creando APIs REST y aplicaciones Full Stack
-- 🔹 Aprendiendo nuevas herramientas del ecosistema .NET
+ 🔹 Desarrollando aplicaciones con **ASP.NET Core** y **Entity Framework Core**
+ 🔹 Aplicando **Clean Architecture** y principios **SOLID**
+ 🔹 Creando APIs REST y aplicaciones Full Stack
+ 🔹 Aprendiendo nuevas herramientas del ecosistema .NET
 
 ---
 
